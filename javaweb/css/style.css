@@ -1,0 +1,26 @@
+* { 
+    font-size: 20px; 
+    text-transform: uppercase;
+}
+
+.separador-topo { margin-top:30px; }
+
+.img-responsive {
+    width: 100%;
+    max-width: 400px;
+}
+
+.homebg{
+    background: #f00 url("../img/cabecalho.jpg") no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -p-background-size: contain;
+    background-size: contain;
+    height: 300px;
+}
+
+.zonaFormulario {
+    width:90%;
+    max-width: 500px;
+    margin: 0 auto;
+}

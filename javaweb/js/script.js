@@ -1,0 +1,1 @@
+console.log("acabei de ler o script.js");
