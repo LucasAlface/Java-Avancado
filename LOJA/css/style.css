@@ -48,4 +48,10 @@
     text-transform: uppercase;
     padding: 10px 30px !important;
   }
+
+  .custom-container {
+    max-width: 1200px; 
+    max-height: 900px; 
+    margin: 0 auto; 
+}
   
